@@ -1,0 +1,11 @@
+# Same versions as the Airflow 3.1.5 containers, so local tests match the pipeline
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.8.0
+kneed==0.9.0
+matplotlib==3.11.2
+joblib==1.5.2
+
+# Local only: converting the Excel source file and running tests
+openpyxl==3.1.5
+pytest==9.2.0
