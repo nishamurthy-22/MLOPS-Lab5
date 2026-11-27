@@ -6,3 +6,4 @@ logs/
 plugins/
 dags/model/
 .venv/
+artifacts/
